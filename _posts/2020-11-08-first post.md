@@ -3,7 +3,7 @@ layout: post
 title:  "안녕하세요 !"
 summary: This is a sample post 1 by pypanda !
 author: pypanda
-date: '2020-07-16 09:41:00 +0900'
+date: '2020-11-08 09:41:00 +0900'
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
 ---
